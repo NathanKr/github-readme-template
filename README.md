@@ -1,6 +1,6 @@
 
 <h1>Project Name</h1>
-<p>Your project name</p>
+<p>Put here your project name</p>
 
 <h2>Table of Contents</h2>
 <ul>
