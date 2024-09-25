@@ -13,9 +13,10 @@
     <li><a href="#code-structure">Code Structure</a></li>
     <li><a href="#demo">Demo</a></li>
     <li><a href="#points-of-interest">Points of Interest</a></li>
+    <li><a href="#references">References</a></li>
+    <li><a href="#authors">Authors</a></li> 
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#references">References</a></li>
 </ul>
 
 <h2 id="project-description">Project Description</h2>
@@ -25,14 +26,12 @@
 <p>A clear explanation of the reasons behind the project's creation, including the problem it addresses and the benefits it offers.</p>
 
 <h2 id="installation">Installation</h2>
-<p>Step-by-step instructions on how to set up the development environment and install necessary dependencies. e.g.</p>
+<p>Step-by-step instructions on how to set up the development environment and install necessary dependencies. </p>
 
-<pre><code>npm install</code></pre>
 
 <h2 id="usage">Usage</h2>
-<p>Instructions on how to use the project, including examples, screenshots, or code snippets. e.g.</p>
+<p>Instructions on how to use the project, including examples, screenshots, or code snippets</p>
 
-<pre><code>npm run dev</code></pre>
 
 <h2 id="design">Design</h2>
 <p>A high-level overview of the project's architecture, design patterns, and key components.</p>
@@ -62,15 +61,22 @@
     <li>Lessons learned</li>
 </ul>
 
-<h2 id="contributing">Contributing</h2>
-<p>Guidelines for contributing to the project, including how to report issues and submit pull requests.</p>
-
-<h2 id="license">License</h2>
-<p>Information about the project's license (e.g., MIT, Apache, GPL).</p>
-
 <h2 id="references">References</h2>
 <ul>
     <li>External libraries or frameworks</li>
     <li>Articles or tutorials</li>
     <li>Other relevant resources</li>
 </ul>
+
+<h2 id="authors">Authors</h2>
+<p>List of the main contributors and authors of the project. You can also include links to their profiles (GitHub, LinkedIn, etc.).</p>
+<ul>
+    <li><strong>Your Name</strong> - <em>Project Creator</em> - <a href="https://github.com/username">GitHub Profile</a></li>
+    <li><strong>Collaborator Name</strong> - <em>Contributor</em> - <a href="https://github.com/username">GitHub Profile</a></li>
+</ul>
+
+<h2 id="contributing">Contributing</h2>
+<p>Guidelines for contributing to the project, including how to report issues and submit pull requests.</p>
+
+<h2 id="license">License</h2>
+<p>Information about the project's license (e.g., MIT, Apache, GPL).</p>
