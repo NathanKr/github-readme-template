@@ -1,5 +1,5 @@
 
-<h2>Project Name</h2>
+<h1>Project Name</h1>
 <p>Put here your project name</p>
 
 <h2>Table of Contents</h2>
